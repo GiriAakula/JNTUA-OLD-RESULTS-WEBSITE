@@ -1,0 +1,66 @@
+﻿html, body, .suites, .qsfLinks, .qsfLinks li {
+    margin: 0px;
+    padding: 0px;
+}
+
+.masterBody {
+    background: url("img/fadestrip2.png") repeat-x scroll left top #F3F5F5;
+    font-family: "segoe ui",arial,sans-serif;
+    font-size: 12px;
+}
+
+table {
+    border-collapse: collapse;
+    border: 0px;
+    padding: 0px;
+    width: 100%;
+}
+
+.tdLeft {
+    vertical-align: top;
+    padding-right: 15px;
+}
+
+.tdContentPlaceholder {
+    height: 400px;
+    vertical-align: top;
+    border-radius: 4px 4px 0 0;
+    background: url('img/qsfBigHolderHomeBgr.gif') repeat scroll 0 0 transparent;
+    width: 100%;
+}
+
+.divContentPlaceHolder {
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0 1px 2px #555555;
+}
+
+.headingTable td {
+    padding: 10px;
+}
+
+.statusMessage {
+    text-align: center;
+    font-size: 14px;
+    color: green;
+    font-weight: bold;
+    width: 100%;
+}
+
+
+.innerTable {
+    width: 100%;
+}
+
+    .innerTable td {
+        padding: 10px;
+    }
+
+.notificationTable {
+    width: 90%;
+    border: 1px solid black;
+    margin-left: 38px;
+}
+
+    .notificationTable td {
+        padding: 10px;
+    }
